@@ -23,7 +23,7 @@ Backend is **Flask**.
 From the repo root (`c:/Users/Sudarshan P/Desktop/daa_final`):
 
 ```bat
-cd "c:/Users/Sudarshan P/Desktop/daa_final"
+cd "c:/Users/daa_final"
 python -m venv venv
 venv\Scripts\activate
 pip install -r backend\requirements.txt
@@ -40,7 +40,7 @@ Keep this terminal running.
 Open another terminal and run:
 
 ```bat
-cd "c:/Users/Sudarshan P/Desktop/daa_final\frontend"
+cd "c:/Users/daa_final\frontend"
 npm install
 npm run dev
 ```
