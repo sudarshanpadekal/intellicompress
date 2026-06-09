@@ -20,7 +20,7 @@ Backend is **Flask**.
 ## Run locally
 
 ### 1) Start the Flask backend
-From the repo root (`c:/Users/Sudarshan P/Desktop/daa_final`):
+From the repo root (`c:/Users/daa_final`):
 
 ```bat
 cd "c:/Users/daa_final"
